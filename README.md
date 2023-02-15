@@ -1,5 +1,4 @@
 # C-Vector
-Basic vector implementation in C
 
 Very basic vector implementation in C. 
 
