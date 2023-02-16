@@ -2,7 +2,7 @@
 
 #include <stddef.h>
 
-#define vector(type) type*
+#define vector(TYPE) TYPE*
 
 #define vector_delete(VECTOR) \
     vector_internal_delete(&(VECTOR))
